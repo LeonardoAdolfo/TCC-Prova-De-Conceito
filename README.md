@@ -28,6 +28,9 @@ Este projeto é uma prova de conceito utilizando Arduino, que combina várias fu
 
 ## Como Usar
 
-1. Monte o circuito conforme o diagrama (não fornecido aqui, mas assumido como parte do projeto).
+1. Monte o circuito conforme o diagrama.
+
+   ![image](https://github.com/user-attachments/assets/dd549cb9-296a-4a19-aafa-0f6817f1f185)
+
 2. Carregue o código no seu Arduino.
 3. Interaja com o sistema usando o botão e observe as leituras no LCD e o movimento do servo.
